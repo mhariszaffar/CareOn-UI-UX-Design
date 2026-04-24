@@ -18,4 +18,4 @@ CareOn is an AI-powered health monitoring platform designed to shift healthcare 
 * **Frictionless Onboarding:** I designed a segmented, low-cognitive-load onboarding flow to help users easily set up medical baselines and emergency contacts without feeling overwhelmed.
 
 ## 📂 Project Pitch
-* [`CareOn.pdf`](CareOn.pdf) - The original project pitch deck detailing the core problem, user personas, and systemic healthcare failures we aimed to solve.
+* [`CareOn.pdf`](Presentation - Care On - AI Health Monitoring.pdf) - The original project pitch deck detailing the core problem, user personas, and systemic healthcare failures we aimed to solve.
