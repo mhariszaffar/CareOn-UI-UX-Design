@@ -1,2 +1,21 @@
 # CareOn-UI-UX-Design
 UI/UX design case study and front-end prototype for CareOn, an AI-powered early health intervention platform for chronic &amp; elderly patients.
+# CareOn - UI/UX Design Case Study 🩺
+
+[cite_start]CareOn is an AI-powered health monitoring platform designed to shift healthcare from a reactive crisis response to proactive, preventive care[cite: 16, 17, 18]. This repository showcases my UI/UX design process and high-fidelity prototyping created for the Vyrothon hackathon at NUST.
+
+## 🎨 My Role & Tools
+* **Role:** UI/UX Designer
+* **Tools Used:** Figma (Wireframing, UI Design, Interactive Prototyping)
+* [cite_start]**Objective:** Design a frictionless, trustworthy interface for an elderly target demographic [cite: 27] [cite_start]and their healthcare providers [cite: 30][cite_start], effectively visualizing complex AI health data[cite: 19, 21].
+
+## 🔗 Figma Files
+* **https://www.figma.com/proto/Le1EBPlPqq6sqGYX7DtdUV/CareOn?node-id=1-200&p=f&t=l6iBRHB9JswlNhqk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A200**
+
+## 📌 The Problem & Design Solution
+* [cite_start]**The Problem:** Many elderly individuals face isolation, and critical changes in vitals (like blood pressure spikes) are often missed until an emergency room visit is required[cite: 6, 8, 41]. 
+* [cite_start]**The Solution:** A home-first monitoring dashboard[cite: 54]. [cite_start]The design prioritizes a clean data hierarchy, focusing heavily on a central "Overall Health Score" and instant alert visuals to keep families and doctors connected[cite: 22, 45].
+* **Frictionless Onboarding:** I designed a segmented, low-cognitive-load onboarding flow to help users easily set up medical baselines and emergency contacts without feeling overwhelmed.
+
+## 📂 Project Pitch
+* [`CareOn.pdf`](CareOn.pdf) - The original project pitch deck detailing the core problem, user personas, and systemic healthcare failures we aimed to solve.
