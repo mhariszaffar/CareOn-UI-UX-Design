@@ -6,10 +6,10 @@ CareOn is an AI-powered health monitoring platform designed to shift healthcare 
 
 ## 🎨 My Role & Tools
 * **Role:** UI/UX Designer
-* **Tools Used:** Figma (Wireframing, UI Design, Interactive Prototyping)
+* **Tools Used:** Figma (UI Design, Interactive Prototyping)
 * **Objective:** Design a frictionless, trustworthy interface for an elderly target demographic and their healthcare providers, effectively visualizing complex AI health data.
 
-## 🔗 Figma Files
+## 🔗 Figma Preview
 * **https://www.figma.com/proto/Le1EBPlPqq6sqGYX7DtdUV/CareOn?node-id=1-200&p=f&t=l6iBRHB9JswlNhqk-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A200**
 
 ## 📌 The Problem & Design Solution
