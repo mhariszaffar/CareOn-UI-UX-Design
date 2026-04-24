@@ -1,4 +1,4 @@
-# CareOn-UI-UX-Design
+# CareOn - Vyrothon (Stage 2) Hackathon 2026
 UI/UX design case study and front-end prototype for CareOn, an AI-powered early health intervention platform for chronic &amp; elderly patients.
 # Design Case Study 🩺
 
