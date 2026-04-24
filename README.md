@@ -2,7 +2,7 @@
 UI/UX design case study and front-end prototype for CareOn, an AI-powered early health intervention platform for chronic &amp; elderly patients.
 # CareOn - UI/UX Design Case Study 🩺
 
-[cite_start]CareOn is an AI-powered health monitoring platform designed to shift healthcare from a reactive crisis response to proactive, preventive care[cite: 16, 17, 18]. This repository showcases my UI/UX design process and high-fidelity prototyping created for the Vyrothon hackathon at NUST.
+CareOn is an AI-powered health monitoring platform designed to shift healthcare from a reactive crisis response to proactive, preventive care[cite: 16, 17, 18]. This repository showcases my UI/UX design process and high-fidelity prototyping created for the Vyrothon hackathon at NUST.
 
 ## 🎨 My Role & Tools
 * **Role:** UI/UX Designer
